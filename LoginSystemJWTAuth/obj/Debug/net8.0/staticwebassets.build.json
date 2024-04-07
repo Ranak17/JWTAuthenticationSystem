@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5sNZkYlYTUrq878soKdFY4Hfljz4LyZQx6HwlCeQL2Q=",
+  "Source": "LoginSystemJWTAuth",
+  "BasePath": "_content/LoginSystemJWTAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
